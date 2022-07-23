@@ -1198,7 +1198,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #24ffff;
+  background: #ff52d1;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2483,7 +2483,7 @@ body {
   background-position: 50% 50%;
 }
 .content-wrap {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 .main-inner .post-block {
   background: rgba(255,255,255,0.7) none repeat scroll !important;
@@ -2492,10 +2492,10 @@ body {
   background: rgba(255,255,255,0.7) none repeat scroll !important;
 }
 .header-inner {
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.7);
 }
 .popup {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 .category-all-page .category-list-item {
   margin: 15px 10px 10px 10px;
@@ -2523,7 +2523,7 @@ body {
   background-position: 50% 50%;
 }
 .content-wrap {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 .main-inner .post-block {
   background: rgba(255,255,255,0.7) none repeat scroll !important;
@@ -2532,10 +2532,10 @@ body {
   background: rgba(255,255,255,0.7) none repeat scroll !important;
 }
 .header-inner {
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0.7);
 }
 .popup {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 .category-all-page .category-list-item {
   margin: 15px 10px 10px 10px;
