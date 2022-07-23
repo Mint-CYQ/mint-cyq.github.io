@@ -1198,7 +1198,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #cc7c16;
+  background: #d2996a;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2506,6 +2506,16 @@ body {
   list-style: none;
 }
 body {
+  background: url("/images/JW1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  color: var(--text-color);
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 1em;
+  line-height: 2;
+}
+body {
   background: url("/images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -2534,14 +2544,4 @@ body {
 }
 .category-all-page .category-list-child {
   list-style: none;
-}
-body {
-  background: url("/images/JW1.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  color: var(--text-color);
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1em;
-  line-height: 2;
 }
